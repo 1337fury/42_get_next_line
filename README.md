@@ -1,4 +1,5 @@
 # 42get_next_line
+![376596-4k-wallpaper](https://user-images.githubusercontent.com/107589431/209889058-47976890-3087-4d9b-ad4c-f0a828ac6ae0.jpeg)
 The `42 get next line` project is a programming exercise that involves writing a function in the C programming language that reads a line from a file descriptor. The goal of the project is to create a function that reads a line from a file descriptor, including the newline character at the end of the line, and stores the result in a buffer.
 
 ### Here is a high-level overview of how the function might work:
